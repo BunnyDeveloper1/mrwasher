@@ -42,11 +42,13 @@ font-family: 'Times New Roman', serif !important;
 #left_service p{
 	font-size:20px;
 	font-weight:bold;
+	text-position:inherit;
 }
 #right_service p{
  
 	font-size:20px;
 	font-weight:bold;
+	text-position:inherit;
 }
 
 
